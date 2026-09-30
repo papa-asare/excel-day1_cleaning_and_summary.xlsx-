@@ -1,0 +1,5 @@
+The dataset contains 180 transactions. This provides a sufficient number of records for analysing the financial activities captured in the dataset and identifying spending and revenue patterns.
+Total revenue was GHS 318,721, while total expenses were GHS 456,287. Expenses therefore exceeded revenue by GHS 137,566, which matters because the recorded revenue was not enough to cover the expenses during the period analysed.
+The analysis resulted in a profit of -GHS 137,566, representing a loss. This matters because it highlights the need to understand the main drivers of expenditure and identify areas where costs could potentially be better controlled.
+Office Supplies recorded GHS 105,273 in expenses, making it the highest expense category. This matters because it identifies a major area of spending that management may want to review when assessing costs and budget allocation.
+The Sales department recorded GHS 134,953 in expenses, the highest among all departments. This matters because it identifies where the largest departmental expenditure occurred and provides a starting point for investigating the activities driving those costs.
